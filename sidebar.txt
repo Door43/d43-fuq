@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[fuq:home|Door43 (fuq)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-fuq|d43-fuq repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-fuq/archive/master.zip|d43-fuq.zip]]
+
+**Recent Changes**
+{{changes>ns = fuq}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/fuq|Ethnologue data]]
+
